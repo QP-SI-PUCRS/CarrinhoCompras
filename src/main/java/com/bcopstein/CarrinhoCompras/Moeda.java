@@ -2,5 +2,5 @@ package com.bcopstein.CarrinhoCompras;
 
 
 public enum Moeda {
-    REAL,DOLAR,EURO,PESOARG;
+    REAL,DOLAR,EURO,PESOARG,PESOURUGUAIO;
 }
